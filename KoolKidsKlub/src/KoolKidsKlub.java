@@ -1,10 +1,15 @@
 
-public class KoolKidsKlub 
+public class KoolKidsKlub
 {
  public void testBastian()
  {
- 
+
  }
-	
-	
+
+ public void testMark()
+ {
+
+ }
+
+
 }
