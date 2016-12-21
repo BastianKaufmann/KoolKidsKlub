@@ -6,7 +6,7 @@ public class KoolKidsKlub
 
  }
 
- public void testMark()
+ public void testMark2()
  {
 
  }
