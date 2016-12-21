@@ -11,5 +11,9 @@ public class KoolKidsKlub
 
  }
 
+ public void testGracjan()
+ {
+	 // Gracjan
+ }
 
 }
